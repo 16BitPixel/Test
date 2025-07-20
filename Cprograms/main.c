@@ -1,3 +1,4 @@
 void main(){
-echo "Main ran with 0";
+ printf("Main with 0");
+
 }
