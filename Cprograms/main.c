@@ -1,4 +1,3 @@
 void main(){
-bigThree();
-fact();
+echo "Main ran with 0";
 }
