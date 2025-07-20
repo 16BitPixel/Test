@@ -1,6 +1,6 @@
-include <stdio.h>
+#include <stdio.h>
 
-void main(){
- printf("Main with 0");
-
+void main() {
+  printf("Hello World!\n");
+  printf("I am learning C.");
 }
